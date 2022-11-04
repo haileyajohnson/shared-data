@@ -1,0 +1,7 @@
+# Ignore unwanted IntelliJ IDEA project files
+/intelliJ/
+/intellij/
+*.ipr
+*.iml
+*.iws
+.idea/
